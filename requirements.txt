@@ -1,0 +1,23 @@
+# Core data analysis
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+
+# Notebook
+jupyter
+
+# GIS mapping support
+geopandas
+shapely
+fiona
+pyproj
+rtree
+
+# Interactive mapping
+folium
