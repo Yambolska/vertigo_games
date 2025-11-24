@@ -378,7 +378,7 @@ Kullanıcı davranışını daha iyi anlatmak için şu metrikleri türettim:
 
 Bu metrikler, tekil kullanıcıyı sadece “kaç gün oynadı?” perspektifinden çıkarıp, **çok boyutlu bir davranış ve değer profiline** dönüştürüyor.
 
-![Metrikler](assets/task2_turetilmis_metrikler.png)
+![Metrikler](assets/task2_metrics.png)
 ![Revenue breakdown](assets/task2_Revenue_Breakdown_by_Month.png)
 ---
 
