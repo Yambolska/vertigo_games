@@ -1,5 +1,7 @@
 # Vertigo Games – Case Study
 
+**The full detailed analysis, with both Turkish and English annotated explanations, can be found inside the Jupyter notebooks in the form of markdown documentation.**
+
 Bu repo, Vertigo Games için hazırladığım case study çözümünü içerir.  
 Çalışma iki ana kısımdan oluşuyor:
 
