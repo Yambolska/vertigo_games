@@ -147,7 +147,7 @@ B’nin 15. gündeki DAU’su daha yüksek olsa da, **A varyantı kullanıcı ba
 > Not: Bu sonuç **PPU = \$1** varsayımına bağlıdır.  
 > PPU arttıkça B’nin daha yüksek purchase oranı daha önemli hale gelir ve belirli bir noktadan sonra B, geliri yakalayabilir hatta geçebilir.
 
-![DAU ve GELIR](assets/task1_cumulative_record.png)
+![cumulative record](assets/task1_cumulative_record.png)
 ![DAU ve GELIR](assets/task1_dau_comparison.png)
 
 ---
