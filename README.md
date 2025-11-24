@@ -10,7 +10,7 @@ Bu repo, Vertigo Games için hazırladığım case study çözümünü içerir.
 
 ## 1. Proje Yapısı
 
-```text
+
 vertigo_case_study/
 ├── data/                # Ham veri ve ara çıktı
 ├── notebooks/           # Analiz için Jupyter notebook'lar
@@ -19,7 +19,6 @@ vertigo_case_study/
 ├── requirements.txt     # Gerekli Python paketleri
 └── README.md
 
-'''
 
 ## Task 1 – A/B Test Simülasyonu
 
