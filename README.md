@@ -13,6 +13,7 @@ Bu repo, Vertigo Games için hazırladığım case study çözümünü içerir.
 ## 1. Proje Yapısı
 
 
+>>>>>>> 244141c (Update metrics images and README)
 vertigo_case_study/
 ├── data/                # Ham veri ve ara çıktı
 ├── notebooks/           # Analiz için Jupyter notebook'lar
