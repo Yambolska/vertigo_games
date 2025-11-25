@@ -81,7 +81,7 @@ R(x) = C \cdot e^{-k(x-1)}
 \]
 
 - \(x\): oyuncunun yaşam gün sayısı (1, 2, 3, …)  
-- \(R(x)\): x. günde aktif olma olasılığı  
+- \(R(x)\): x. günde aktif olma olasılığı,  
 - \(C\): D1 retention değeri  
 - \(k\): decay katsayısı
 
