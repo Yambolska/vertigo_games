@@ -2,7 +2,5 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-data/raw/
-data/processed/
 .DS_Store
 anaconda_projects/
