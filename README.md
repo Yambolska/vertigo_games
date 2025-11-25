@@ -298,7 +298,7 @@ Bu noktada soru artık sadece A vs B seçimi değil, aynı zamanda bir **ürün 
 
 Kısaca:
 
-> **Kısa vadede kazanan: A-Varyansi 30 gun icin -- sale boost
+> **Kısa vadede kazanan: A-Varyansi 30 gun icin -- sale boost.
 > Uzun vadede kazanan: B-Varyansi -- yeni user source.**
 
 
