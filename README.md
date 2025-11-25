@@ -293,7 +293,7 @@ Bu noktada soru artık sadece A vs B seçimi değil, aynı zamanda bir **ürün 
 - **Gerçek ürün kararı veriyorsam (orta/uzun vadeli bakış):**  
   Kalıcı DAU ve gelir artışı sağladığı için **yeni user source’u** önceliklendiririm.
 
-[Satis ve Yenikaynak](assets/task1_impact_sale_vs_newsource.png)
+[Satis ve Yenikaynak](assets/task1_impact_sale_vs_new_source.png)
 
 
 Kısaca:
