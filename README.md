@@ -577,14 +577,3 @@ Bu, **aşırı hata yaşayan kullanıcıların monetize olmadan churn ettiklerin
 
 **The full detailed analysis, with both Turkish and English annotated explanations, can be found inside the Jupyter notebooks in the form of markdown documentation.**
 
-## How to run
-
-```bash
-git clone <repo-url>
-cd vertigo_case_study
-pip install -r requirements.txt
-
-# Jupyter
-jupyter lab
-# Then open notebooks/1_task1_ab_test.ipynb and notebooks/tas2_user_segmentation.ipynb
-
