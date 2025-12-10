@@ -1,4 +1,4 @@
-# Vertigo Games – Case Study
+# Game Project
 
 **The full detailed analysis, with both Turkish and English annotated explanations, can be found inside the Jupyter notebooks in the form of markdown documentation.**
 
