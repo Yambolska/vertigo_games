@@ -13,7 +13,7 @@ Bu repo, Games için hazırladığım case study çözümünü içerir.
 ## 1. Proje Yapısı
 
 ```text
-vertigo_case_study/
+case_study/
 ├── data/          # Ham veri ve ara çıktı
 ├── notebooks/     # Analiz için Jupyter notebook'lar
 ├── src/           # Tekrar kullanılabilir Python modülleri
